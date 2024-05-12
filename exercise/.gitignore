@@ -1,0 +1,9 @@
+# ide
+.idea
+*.iml
+
+# node sdk
+node_modules
+
+# data
+data
